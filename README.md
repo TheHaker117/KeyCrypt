@@ -11,6 +11,9 @@ KeyCrypt is a keylogger that uses the Cryptstack Algorithm for working. The basi
 - While is working, KeyCrypt is encrypting and decrypting the data file.
 - Every day creates a new file.
 	
+This project contains both the documentation in JavaDoc format and the UML diagrams.  
+And of course, a executable JAR too.  
+
 
 **Note 1:** *Full Crypstack Algorithm is not available yet*  
 **Note 2:** *KeyCrypt was a school project, its purpose its only educative*  
